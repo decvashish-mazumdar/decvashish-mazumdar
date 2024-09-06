@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @decvashish-mazumdar
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to looking for data analyst role
-- 📫 Reach me out at devashish 0833@gmail.com or 8409359306
+- 📫 Reach me out at devashish0833@gmail.com or 8409359306
 
 
 <!---
